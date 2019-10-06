@@ -1,0 +1,105 @@
+# Kodi Media Center language file
+# Addon Provider: leopheard
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: leopheard@gmail.com\n"
+"POT-Creation-Date: 2019-08-12 HO:MI+ZONE\n"
+"PO-Revision-Date: 2019-08-12 HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30098"
+msgid "Live98"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Live99"
+msgstr ""
+
+msgctxt "#30001"
+msgid "ACRHallofFame"
+msgstr ""
+
+msgctxt "#30002"
+msgid "ACR"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Boiler Room"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Electric Car Talk"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Global Research Newshour"
+msgstr ""
+
+msgctxt "#30006"
+msgid "JAYSANALYSIS"
+msgstr ""
+
+msgctxt "#30007"
+msgid "MIDWEEKMIRE"
+msgstr ""
+
+msgctxt "#30008"
+msgid "On the QT with 21WireTV"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Patrick Henningsen Live"
+msgstr ""
+
+msgctxt "#30010"
+msgid "PRIMALEDGEHEALTH"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Primecast"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Sunday Wire with Patrick Henningsen"
+msgstr ""
+
+msgctxt "#30013"
+msgid "UKColumnRadio"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Synesthesia Radio"
+msgstr ""
+
+msgctxt "#30015"
+msgid "HESSIANSESSION"
+msgstr ""
+
+msgctxt "#30016"
+msgid "ANARCHY_WITH_SPORE"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Fvnk$oulsMixTape"
+msgstr ""
+
+msgctxt "#30018"
+msgid "FUSION WITH RANDY.J"
+msgstr ""
+
+msgctxt "#30019"
+msgid "CORKSCREWS TWISTED MIX"
+msgstr ""
+
+msgctxt "#30020"
+msgid "DIRECTED ENERGY"
+msgstr ""
+
+# empty string with id 32003
