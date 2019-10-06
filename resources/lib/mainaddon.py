@@ -2,103 +2,103 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-def get_soup1(URL1):
-    page = requests.get(URL1)
+def get_soup1(url1):
+    page = requests.get(url1)
     soup1 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup1))
     return soup1
-def get_soup2(URL2):
-    page = requests.get(URL2)
+def get_soup2(url2):
+    page = requests.get(url2)
     soup2 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup2))
     return soup2
-def get_soup3(URL3):
-    page = requests.get(URL3)
+def get_soup3(url3):
+    page = requests.get(url3)
     soup3 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup3))
     return soup3
-def get_soup4(URL4):
-    page = requests.get(URL4)
+def get_soup4(url4):
+    page = requests.get(url4)
     soup4 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup4))
     return soup4
-def get_soup5(URL5):
-    page = requests.get(URL5)
+def get_soup5(url5):
+    page = requests.get(url5)
     soup5 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup5))
     return soup5
-def get_soup6(URL6):
-    page = requests.get(URL6)
+def get_soup6(url6):
+    page = requests.get(url6)
     soup6 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup6))
     return soup6
-def get_soup7(URL7):
-    page = requests.get(URL7)
+def get_soup7(url7):
+    page = requests.get(url7)
     soup7 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup7))
     return soup7
-def get_soup8(URL8):
-    page = requests.get(URL8)
+def get_soup8(url8):
+    page = requests.get(url8)
     soup8 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup8))
     return soup8
-def get_soup9(URL9):
-    page = requests.get(URL9)
+def get_soup9(url9):
+    page = requests.get(url9)
     soup9 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup9))
     return soup9
-def get_soup10(URL10):
-    page = requests.get(URL10)
+def get_soup10(url10):
+    page = requests.get(url10)
     soup10 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup10))
     return soup10
-def get_soup11(URL11):
-    page = requests.get(URL11)
+def get_soup11(url11):
+    page = requests.get(url11)
     soup11 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup11))
     return soup11
-def get_soup12(URL12):
-    page = requests.get(URL12)
+def get_soup12(url12):
+    page = requests.get(url12)
     soup12 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup12))
     return soup12
-def get_soup13(URL13):
-    page = requests.get(URL13)
+def get_soup13(url13):
+    page = requests.get(url13)
     soup13 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup13))
     return soup13
-def get_soup14(URL14):
-    page = requests.get(URL14)
+def get_soup14(url14):
+    page = requests.get(url14)
     soup14 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup14))
     return soup14
-def get_soup15(URL15):
-    page = requests.get(URL15)
+def get_soup15(url15):
+    page = requests.get(url15)
     soup15 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup15))
     return soup15
-def get_soup16(URL16):
-    page = requests.get(URL16)
+def get_soup16(url16):
+    page = requests.get(url16)
     soup16 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup16))
     return soup16
-def get_soup17(URL17):
-    page = requests.get(URL17)
+def get_soup17(url17):
+    page = requests.get(url17)
     soup17 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup17))
     return soup17
-def get_soup18(URL18):
-    page = requests.get(URL18)
+def get_soup18(url18):
+    page = requests.get(url18)
     soup18 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup18))
     return soup18
-def get_soup19(URL19):
-    page = requests.get(URL19)
+def get_soup19(url19):
+    page = requests.get(url19)
     soup19 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup19))
     return soup19
-def get_soup20(URL20):
-    page = requests.get(URL20)
+def get_soup20(url20):
+    page = requests.get(url20)
     soup20 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup20))
     return soup20
@@ -668,7 +668,7 @@ def get_playable_podcast20(soup20):
         item = {
                 'url': link,
                 'title': title,
-                'thumbnail': "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1bfdea54d48417fc86b622fb45e75ee7.jpg"
+                'thumbnail': "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/93fd8a3994516d2be428aac553920e1d.jpg"
         }
         subjects.append(item) 
     return subjects

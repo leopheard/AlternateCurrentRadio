@@ -27,11 +27,6 @@ url20 = "https://www.spreaker.com/show/1267518/episodes/feed" #DIRECTEDENERGY
 def main_menu():
     items = [
         {
-            'label': plugin.get_string(30098), 
-            'path': "https://d2a481t1usahi0.cloudfront.net/live/5697075.mp3?episode_id=5697075&show_id=1241448&user_id=7623132&tenant=SPREAKER&timestamp=1570339149&station_hash=server_17625_live_5697075&preroll=false",
-            'thumbnail': "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/9aba0f2576c2e636ffe06095cb3bfc0f.jpg", 
-            'is_playable': True},
-        {
             'label': plugin.get_string(30099), 
             'path': "https://api.spreaker.com/v2/episodes/19377921/stream",
             'thumbnail': "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/9aba0f2576c2e636ffe06095cb3bfc0f.jpg", 
@@ -115,7 +110,7 @@ def main_menu():
         {
             'label': plugin.get_string(30020),
             'path': plugin.url_for('episodes20'),
-            'thumbnail': "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1bfdea54d48417fc86b622fb45e75ee7.jpg"},
+            'thumbnail': "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/93fd8a3994516d2be428aac553920e1d.jpg"},
     ]
     return items
 

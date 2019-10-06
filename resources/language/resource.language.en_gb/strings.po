@@ -14,20 +14,16 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgctxt "#30098"
-msgid "Live98"
-msgstr ""
-
 msgctxt "#30099"
-msgid "Live99"
+msgid "Alternate Current Radio - livestream"
 msgstr ""
 
 msgctxt "#30001"
-msgid "ACRHallofFame"
+msgid "Alternate Current Radio - Hall of Fame"
 msgstr ""
 
 msgctxt "#30002"
-msgid "ACR"
+msgid "Alternate Current Radio"
 msgstr ""
 
 msgctxt "#30003"
@@ -43,11 +39,11 @@ msgid "Global Research Newshour"
 msgstr ""
 
 msgctxt "#30006"
-msgid "JAYSANALYSIS"
+msgid "Jay's Analysis"
 msgstr ""
 
 msgctxt "#30007"
-msgid "MIDWEEKMIRE"
+msgid "Midweek Mire"
 msgstr ""
 
 msgctxt "#30008"
@@ -59,7 +55,7 @@ msgid "Patrick Henningsen Live"
 msgstr ""
 
 msgctxt "#30010"
-msgid "PRIMALEDGEHEALTH"
+msgid "Primal Edge Health"
 msgstr ""
 
 msgctxt "#30011"
@@ -79,27 +75,27 @@ msgid "Synesthesia Radio"
 msgstr ""
 
 msgctxt "#30015"
-msgid "HESSIANSESSION"
+msgid "Hessian Session"
 msgstr ""
 
 msgctxt "#30016"
-msgid "ANARCHY_WITH_SPORE"
+msgid "Anarchy With Spore"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Fvnk$oulsMixTape"
+msgid "Fvnk$ouls Mix Tape"
 msgstr ""
 
 msgctxt "#30018"
-msgid "FUSION WITH RANDY.J"
+msgid "Fusion With Randy J"
 msgstr ""
 
 msgctxt "#30019"
-msgid "CORKSCREWS TWISTED MIX"
+msgid "Corkscrews Twisted Mix"
 msgstr ""
 
 msgctxt "#30020"
-msgid "DIRECTED ENERGY"
+msgid "Directed Energy"
 msgstr ""
 
 # empty string with id 32003
