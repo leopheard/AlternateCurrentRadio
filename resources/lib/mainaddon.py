@@ -468,7 +468,7 @@ def get_playable_podcast13(soup13):
                 'thumbnail': "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3fac61f086b756e4006a6bcfd8d4b080.jpg"
         }
         subjects.append(item) 
-    return subjectS
+    return subjects
 def compile_playable_podcast13(playable_podcast13):
     items = []
     for podcast in playable_podcast13:

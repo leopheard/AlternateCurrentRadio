@@ -67,7 +67,7 @@ msgid "Sunday Wire with Patrick Henningsen"
 msgstr ""
 
 msgctxt "#30013"
-msgid "UKColumnRadio"
+msgid "UK Column Radio"
 msgstr ""
 
 msgctxt "#30014"
